@@ -13,7 +13,7 @@ Entra ID.<br />
 attachments/assets/a5354ace-9dad-4583-90a3-2e0dfb74bad1" /> 
 </p> 
 <p> 
-Assigned phone number as Authentication method for user Chris Walker. 
+Assigned phone number as Authentication method for user Denzel Washington. 
 </p> 
 <br /> 
 <p> 
@@ -21,6 +21,6 @@ Assigned phone number as Authentication method for user Chris Walker.
 attachments/assets/e0d96c87-4df3-459a-88bb-44fcabafb150" /> 
 </p> 
 <p> 
-Assigned phone number as Authentication method for user Jordan Lee. 
+Assigned phone number as Authentication method for user Daffy Duck. 
 </p> 
 <br /> 
